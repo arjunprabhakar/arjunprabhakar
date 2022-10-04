@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun prabhakar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
- 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally. <br>🌱 I’m currently learning React Native.<br> 👯 I’m looking to collaborate with other programmers.<br> ⚡️ Fun fact:I love to Travel.<br>📫 How to reach me **arjunprabhakar8@gmail.com** 
+ 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br> 👯 I’m looking to collaborate with other programmers.<br> ⚡️ Fun fact:I love to Travel.<br>📫 How to reach me **arjunprabhakar8@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
