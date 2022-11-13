@@ -7,6 +7,7 @@
  🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br> 👯 I’m looking to collaborate with other programmers.<br> ⚡️ Fun fact:I love to Travel.<br>📫 How to reach me **arjunprabhakar8@gmail.com** 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/arjun-prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-prabhakar" height="30" width="40" /></a>
 <a href="https://fb.com/arjun prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arjun prabhakar" height="30" width="40" /></a>
