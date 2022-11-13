@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
  🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br> 👯 I’m looking to collaborate with other programmers.<br> ⚡️ Fun fact:I love to Travel.<br>📫 How to reach me **arjunprabhakar8@gmail.com** 
-<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arjun-prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-prabhakar" height="30" width="40" /></a>
