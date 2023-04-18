@@ -1,6 +1,6 @@
 
 [![@arjunprabhakar's Holopin board](https://holopin.io/api/user/board?user=arjun007)](https://holopin.io/@arjunprabhakar)
-<h1 align="center">Hi 👋, I'm Arjun prabhakar</h1>
+<h1 align="center">Hi 👋, I'm Arjun P P</h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h3 align="center">A passionate software developer from India</h3>
 
