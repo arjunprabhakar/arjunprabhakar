@@ -4,7 +4,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h3 align="center">A passionate software developer from India</h3>
 
- 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br> 👯 I’m looking to collaborate with other programmers.<br> ⚡️ Fun fact:I love to Travel.<br>📫 How to reach me **arjunpp1999@gmail.com** 
+ 🔭 Software Engineer @xerox.<br> 👯 I’m looking to collaborate with other programmers.<br> ⚡️ Fun fact:I love to Travel.<br>📫 How to reach me **arjunpp1999@gmail.com** 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
